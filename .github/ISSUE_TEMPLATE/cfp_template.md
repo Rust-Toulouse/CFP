@@ -1,9 +1,3 @@
----
-name: CFP_TEMPLATE
-about: Call For Participation
-
----
-
 { Please fill in this template to help us have a better understanding of your talk}
 
 Language of the talk: 
