@@ -31,7 +31,6 @@ Please use the language you will use during the presentation to fill in this for
 
 ## Miscs
 
-* Tags (e.g: angular, android, web, iot) :
 * Talk level :
     - [ ] beginner
     - [ ] advanced
