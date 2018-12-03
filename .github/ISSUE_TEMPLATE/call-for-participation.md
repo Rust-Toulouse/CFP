@@ -15,7 +15,7 @@ Please use the language you will use during the presentation to fill in this for
 ## About you
 
 * Name:
-* Link to profile picture (best quality you have):
+* Link to profile picture:
 * Twitter handle:
 * Experience as a speaker:
     - [ ] beginner
@@ -29,7 +29,7 @@ Please use the language you will use during the presentation to fill in this for
 
 ---
 
-## Miscelaneous
+## Miscellaneous
 
 * Talk level :
     - [ ] beginner
