@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Bug report
+about: Create a report to help us improve
 
 ---
 
@@ -27,7 +27,6 @@ Please use the language you will use during the presentation to fill in this for
 
 ## Description of your talk
 
-
 ---
 
 ## Miscs
@@ -41,4 +40,4 @@ Please use the language you will use during the presentation to fill in this for
 * Format:
     - [ ] Slides
     - [ ] Live coding
-* Availability :
+* Availability (e.g: ASAP, before/after XXX):
