@@ -39,4 +39,4 @@ Please use the language you will use during the presentation to fill in this for
 * Format:
     - [ ] Slides
     - [ ] Live coding
-* Availability (e.g: ASAP, before/after XXX):
+* Availability:
