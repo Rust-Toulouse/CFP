@@ -8,5 +8,7 @@ Welcome, you can [submit a proposition](https://github.com/Rust-Toulouse/CFP/iss
 
 ## Contacts
 
-[Mailing List](https://framalistes.org/sympa/info/rust.toulouse)
+Social network contacts:
+- [Mailing List](https://framalistes.org/sympa/info/rust.toulouse)
+- [Twitter](https://twitter.com/Rust_Toulouse)
 
