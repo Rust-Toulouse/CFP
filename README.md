@@ -13,7 +13,7 @@ Welcome, you can [submit a proposition](https://github.com/Rust-Toulouse/CFP/iss
 
 ## Sessions
 
-### [Sessions 1](https://github.com/Rust-Toulouse/CFP/wiki/Session-%231) du 30 Janvier 2019
+### [Sessions #1 du 30 Janvier 2019](https://github.com/Rust-Toulouse/CFP/wiki/Session-%231) 
 
 - "Rust : introduction au langage" par Sylvain Wallez
 
