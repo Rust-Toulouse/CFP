@@ -11,3 +11,6 @@ Welcome, you can [submit a proposition](https://github.com/Rust-Toulouse/CFP/iss
 - [Meetup](https://www.meetup.com/Toulouse-Rust-Meetup/)
 - [Twitter](https://twitter.com/Rust_Toulouse)
 
+## Sessions
+
+[Sessions 1](https://github.com/Rust-Toulouse/CFP/wiki/Session-%231)
