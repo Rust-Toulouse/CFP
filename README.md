@@ -15,6 +15,7 @@ Welcome, you can [submit a proposition](https://github.com/Rust-Toulouse/CFP/iss
 
 ### [Sessions #1 du 30 Janvier 2019](https://github.com/Rust-Toulouse/CFP/wiki/Session-%231) 
 
-- ["Rust : introduction au langage"](https://github.com/Rust-Toulouse/CFP/issues/4) par Sylvain Wallez 
+- "Rust : introduction au langage" par *Sylvain Wallez* -
+[CFP](https://github.com/Rust-Toulouse/CFP/issues/4) - [Slides](https://swallez.github.io/introduction-to-rust/slide-1.html) - [Repository](https://github.com/swallez/introduction-to-rust) 
 
 - ["La vie en Rust"](https://github.com/Rust-Toulouse/CFP/issues/3) par Simon Chemouil
