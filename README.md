@@ -18,4 +18,4 @@ Welcome, you can [submit a proposition](https://github.com/Rust-Toulouse/CFP/iss
 - "Rust : introduction au langage" par *Sylvain Wallez* -
 [CFP](https://github.com/Rust-Toulouse/CFP/issues/4) - [Slides](https://swallez.github.io/introduction-to-rust/slide-1.html) - [Repository](https://github.com/swallez/introduction-to-rust) 
 
-- ["La vie en Rust"](https://github.com/Rust-Toulouse/CFP/issues/3) par Simon Chemouil
+- "La Vie En Rust" par *Simon Chemouil* - [CFP](https://github.com/Rust-Toulouse/CFP/issues/3) - [Slides](https://github.com/magnet/trm-la-vie-en-rust/blob/master/trm-la-vie-en-rust-2019-handout.pdf) - [Code from Live Coding](https://github.com/magnet/trm-la-vie-en-rust/tree/master/live-coding) - [Repository](https://github.com/magnet/trm-la-vie-en-rust)
