@@ -19,3 +19,7 @@ Welcome, you can [submit a proposition](https://github.com/Rust-Toulouse/CFP/iss
 [CFP](https://github.com/Rust-Toulouse/CFP/issues/4) - [Slides](https://swallez.github.io/introduction-to-rust/slide-1.html) - [Repository](https://github.com/swallez/introduction-to-rust) 
 
 - "La Vie En Rust" par *Simon Chemouil* - [CFP](https://github.com/Rust-Toulouse/CFP/issues/3) - [Slides](https://github.com/magnet/trm-la-vie-en-rust/blob/master/trm-la-vie-en-rust-2019-handout.pdf) - [Code from Live Coding](https://github.com/magnet/trm-la-vie-en-rust/tree/master/live-coding) - [Repository](https://github.com/magnet/trm-la-vie-en-rust)
+
+### [Sessions #2 du 26 Février 2019](https://github.com/Rust-Toulouse/CFP/wiki/Session-%232)
+
+- "Type Driven Development avec Rust" par * Didier Plaindoux* - [CFP](https://github.com/Rust-Toulouse/CFP/issues/1)
