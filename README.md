@@ -22,4 +22,4 @@ Welcome, you can [submit a proposition](https://github.com/Rust-Toulouse/CFP/iss
 
 ### [Sessions #2 du 26 Février 2019](https://github.com/Rust-Toulouse/CFP/wiki/Session-%232)
 
-- "Type Driven Development avec Rust" par *Didier Plaindoux* - [CFP](https://github.com/Rust-Toulouse/CFP/issues/1) - [Repository](https://github.com/d-plaindoux/rust-traits)
+- "Programmation par Traits sous l'influence de la gestion mémoire" par *Didier Plaindoux* - [CFP](https://github.com/Rust-Toulouse/CFP/issues/1) - [Repository](https://github.com/d-plaindoux/rust-traits)
