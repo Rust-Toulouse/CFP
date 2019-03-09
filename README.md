@@ -23,3 +23,7 @@ Welcome, you can [submit a proposition](https://github.com/Rust-Toulouse/CFP/iss
 ### [Sessions #2 du 26 Février 2019](https://github.com/Rust-Toulouse/CFP/wiki/Session-%232)
 
 - "Programmation par Traits sous l'influence de la gestion mémoire" par *Didier Plaindoux* - [CFP](https://github.com/Rust-Toulouse/CFP/issues/1) - [Repository](https://github.com/d-plaindoux/rust-traits)
+
+### [Sessions #3 du 28 Mars 2019](https://www.meetup.com/Toulouse-Rust-Meetup/events/259589986/)
+
+- "Rust et WebAssembly" par *Nicolas Decoster* - [CFP](https://github.com/Rust-Toulouse/CFP/issues/5)
