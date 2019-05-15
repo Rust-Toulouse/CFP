@@ -27,3 +27,8 @@ Welcome, you can [submit a proposition](https://github.com/Rust-Toulouse/CFP/iss
 ### [Sessions #3 du 28 Mars 2019](https://github.com/Rust-Toulouse/CFP/wiki/Session-%233)
 
 - "Rust et WebAssembly" par *Nicolas Decoster* - [CFP](https://github.com/Rust-Toulouse/CFP/issues/5) - [Slides](https://slides.com/nnodot/rust_toulouse_webassembly_2019)
+
+### [Sessions #4 du 29 Mai 2019](https://github.com/Rust-Toulouse/CFP/wiki/session-%234)
+
+- "Mon premier service web en Rust" par *François Teychene* - [CFP](https://github.com/Rust-Toulouse/CFP/issues/2)
+
